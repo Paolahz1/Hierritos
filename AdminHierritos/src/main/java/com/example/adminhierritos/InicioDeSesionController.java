@@ -22,10 +22,10 @@ public class InicioDeSesionController {
         stage.setScene(MenuController.scene);
         textfieldContrasena.setText("1234");
     }
-/*
+
     @FXML
     protected void onHelloButtonClick() {
-        welcomeText.setText("Welcome to JavaFX Application!");
+       // welcomeText.setText("Welcome to JavaFX Application!");
     }
-*/
+
 }
