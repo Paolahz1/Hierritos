@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdminHierritos/AdminHierritos.iml" filepath="$PROJECT_DIR$/AdminHierritos/AdminHierritos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlmacenHierritos/AlmacenHierritos.iml" filepath="$PROJECT_DIR$/AlmacenHierritos/AlmacenHierritos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Hierritos.iml" filepath="$PROJECT_DIR$/.idea/Hierritos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServerHierritos/ServerHierritos.iml" filepath="$PROJECT_DIR$/ServerHierritos/ServerHierritos.iml" />
+    </modules>
+  </component>
+</project>
